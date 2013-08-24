@@ -1,0 +1,19 @@
+RandGur DotNet:
+Version 1.0
+Release Date: 4/29/2013
+URL: http://mikerosenberger.com/blog
+
+RandGur DotNet is a program written in Visual Studio C# 2010 to load and display random images off of the image hosting site Imgur. It is the first release of RandGur Software. A C++ and html/php version may be future releases.
+I am not responsible for anything showed, viewed or displayed. All images showed are hosted on imgur and any complaints or comments should be taken up with them.
+
+About:
+Full Screen Button: Enters/Exits Full Screen Mode. 
+Escape Key: If in Full Screen Mode, Exits full screen mode
+Space Key: Go To A New Random Image
+Right Key: Go To A New Random Image
+Left Key: Go To The Previous Image. 
+Copy Link Button: Copies URL to clipboard.
+
+Everything else should be self explanitory :)
+Enjoy!
+~Mike Rosenberg
